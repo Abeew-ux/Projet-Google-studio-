@@ -1,0 +1,6 @@
+{
+  "name": "BEEFLIX",
+  "description": "Application mobile de streaming d'animes et films en HD avec lecteur vidéo intégré, Turbo Cache 20 Mo et téléchargements hors-ligne.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
